@@ -1,0 +1,16 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/jungadhglimpses",
+    "prod_uri": "mysql://root:@localhost/jungadhglimpses",
+    "insta_url": "https://www.instagram.com/rushi_chapadia/",
+    "twit_url": "https://twitter.com/rushi_chapadia",
+    "linkedin_url": "https://www.linkedin.com/in/rushi-chapadia-20231a192/",
+    "blog_name": "Rambo's Tech",
+    "gmail_user": "rambopatel862@gmail.com",
+    "gmail_password": "ramboisop@862",
+    "no_of_posts": "5"
+
+  }
+}
